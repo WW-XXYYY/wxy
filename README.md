@@ -11,4 +11,6 @@ Steps：
 5. Confirm all settings, then click the “Create repository” button.
 
 Result Check：
-Open the newly created repository page. Verify that the repository status shows “Private”, and the content of the README file is visible on the main page. If both conditions are satisfied, the task is completed successfully.
+1. Open the newly created repository page.
+2. Verify that the repository status shows “Private”, and the content of the README file is visible on the main page.
+3. If both conditions are satisfied, the task is completed successfully.
