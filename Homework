@@ -1,0 +1,17 @@
+Prerequisites：
+
+A web browser on your desktop.
+A valid, logged‑in GitHub account.
+Stable network connection.
+Steps：
+
+On the GitHub homepage, locate and click the green button labelled “New” to start repository creation.
+Fill in a distinct repository name in the corresponding input box. You may also add a short description optionally.
+In the visibility section, select the option “Private”.
+Tick the checkbox for “Add a README file”.
+Confirm all settings, then click the “Create repository” button.
+Result Check：
+
+Open the newly created repository page.
+Verify that the repository status shows “Private”, and the content of the README file is visible on the main page.
+If both conditions are satisfied, the task is completed successfully.
